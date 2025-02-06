@@ -24,6 +24,7 @@ Personal Projects | Reference for Andrej Karpathy
 **Train and Validation Loss:**
 
 10.788929 M parameters
+
 step 0: train loss 4.3170, val loss 4.3208
 
 step 500: train loss 1.8746, val loss 1.9890
