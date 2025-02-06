@@ -1,8 +1,7 @@
 # nanogpt
 Personal Projects | Reference for Andrej Karpathy
 
-# Decoder-only transformer for character-level language modeling.(With inputs of Shakespear text)
-
+# Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need". This is Decoder-only transformer with 10 million parameters for character-level language modeling. Pretrained on Shakespeare dataset. 
 
 
 ---
